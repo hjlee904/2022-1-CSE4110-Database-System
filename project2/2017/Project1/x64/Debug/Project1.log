@@ -1,0 +1,8 @@
+﻿  conn_test.cpp
+C:\Users\hj\Desktop\github\22-1 CSE4110 Database System\project2\20171294\20171294\Project1\conn_test.cpp(199,14): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\hj\Desktop\github\22-1 CSE4110 Database System\project2\20171294\20171294\Project1\conn_test.cpp(199,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\hj\Desktop\github\22-1 CSE4110 Database System\project2\20171294\20171294\Project1\conn_test.cpp(199,14): message : 누락된 variadic 인수 1이(가) 서식 문자열 '% p'에 필요합니다.
+C:\Users\hj\Desktop\github\22-1 CSE4110 Database System\project2\20171294\20171294\Project1\conn_test.cpp(226,14): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\hj\Desktop\github\22-1 CSE4110 Database System\project2\20171294\20171294\Project1\conn_test.cpp(226,14): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\hj\Desktop\github\22-1 CSE4110 Database System\project2\20171294\20171294\Project1\conn_test.cpp(226,14): message : 누락된 variadic 인수 1이(가) 서식 문자열 '% p'에 필요합니다.
+  Project1.vcxproj -> C:\Users\hj\Desktop\github\22-1 CSE4110 Database System\project2\20171294\20171294\x64\Debug\Project1.exe
